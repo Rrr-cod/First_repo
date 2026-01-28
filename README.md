@@ -1,2 +1,8 @@
-# First_repo
-My learning projects and practice code
+# First Repository
+
+This repository contains my practice code and learning projects.
+
+## Skills
+- Java
+- Web Development
+- Cloud Computing
